@@ -3,7 +3,7 @@
 Backend-focused engineer who enjoys building simple and reliable systems.
 
 ## Stack
-Go, PHP, JavaScript, Python  
+Go, PHP , Python  
 Laravel, CodeIgniter, Vue  
 MySQL, PostgreSQL, MongoDB  
 Docker, Nginx, Apache  
