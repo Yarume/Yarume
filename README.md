@@ -10,7 +10,10 @@ Docker, Nginx, Apache
 
 ## Tools
 Git, Puppeteer  
-MikroTik, OpenWRT  
+
+## Networking & Infrastructure
+GPON (ZTE, Alcatel)
+MikroTik, OpenWRT
 
 ## Reach me
 Site → https://frengkyputra.dev/
